@@ -26,7 +26,7 @@ This repository contains my GUVI Linux assignment, completed using the WSL Ubunt
 
 ## 🖼️ Screenshots
 
-Screenshots of the output for each task are available in the `screenshots/` folder.
+Screenshots of the output for each task are available
 
 ## 📎 Submission
 
