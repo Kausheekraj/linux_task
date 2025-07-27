@@ -1,3 +1,4 @@
-another_file.txt  file2.txt  file5.txt  file8.txt    files12.txt  files15.txt  files18.txt  my_file.txt
-file1.txt         file3.txt  file6.txt  file9.txt    files13.txt  files16.txt  files19.txt  myfolder_structure.txt
-file10.txt        file4.txt  file7.txt  files11.txt  files14.txt  files17.txt  files20.txt  
+another_file.txt  file3.yml  file7.txt    files12.txt  files16.txt  files20.txt
+file1.yml         file4.yml  file8.txt    files13.txt  files17.txt  my_file.txt
+file10.txt        file5.yml  file9.txt    files14.txt  files18.txt  myfolder_structure.txt
+file2.yml         file6.txt  files11.txt  files15.txt  files19.txt  
